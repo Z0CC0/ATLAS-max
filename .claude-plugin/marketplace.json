@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "atlas-max",
+  "owner": {
+    "name": "ZoCCo"
+  },
+  "description": "Four independent dials — compression (low/high), rigour (ask), check and silent — plus ten subagents that keep searches, logs, pages and big files out of your conversation. Compresses without losing a fact, and refuses to start building before the goal is clear. This variant is everything ATLAS ships: coding, documents and the memory. Install it instead of atlas-code and atlas-mem, never beside them.",
+  "plugins": [
+    {
+      "name": "atlas-max",
+      "source": "./",
+      "version": "0.1.1",
+      "description": "Four independent dials — compression (low/high), rigour (ask), check and silent — plus ten subagents that keep searches, logs, pages and big files out of your conversation. Compresses without losing a fact, and refuses to start building before the goal is clear. This variant is everything ATLAS ships: coding, documents and the memory. Install it instead of atlas-code and atlas-mem, never beside them."
+    }
+  ]
+}
