@@ -8,6 +8,8 @@
 /plugin install atlas-max@atlas
 ```
 
+It needs `node` on the PATH and Claude Code 2.1.139 or later.
+
 It ships off, and nothing changes until you type `atlas low` or `atlas high`. `atlas help` prints every command.
 
 ## What is inside
