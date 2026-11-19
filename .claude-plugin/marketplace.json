@@ -9,7 +9,7 @@
     {
       "name": "atlas-max",
       "source": "./",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "description": "Four independent dials — compression (low/high), rigour (ask), check and silent — plus ten subagents that keep searches, logs, pages and big files out of your conversation. Compresses without losing a fact, and refuses to start building before the goal is clear. This variant is everything ATLAS ships: coding, documents and the memory. Install it instead of atlas-code and atlas-mem, never beside them."
     }
   ]
