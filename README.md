@@ -19,7 +19,7 @@ It ships off, and nothing changes until you type `atlas low` or `atlas high`. `a
 | **The rules** | four dials: answers up to 51% shorter, questions before building, checks before claims, silence on request | [ATLAS](https://github.com/Z0CC0/ATLAS) |
 | **Coding** | review, fix, plan, test, verify, ship, security audit, specs and changelogs | [ATLAS-code](https://github.com/Z0CC0/ATLAS-code) |
 | **Memory** | notes brought back at every prompt and flagged when their code changes, a code graph, labels, a reader of shipped programs | [ATLAS-mem](https://github.com/Z0CC0/ATLAS-mem) |
-| **Video** | screen recording with a camera that follows you, and video with frameworks on your machine | [ATLAS-video](https://github.com/Z0CC0/ATLAS-video) |
+| **Video** | screen recording with a camera that follows you, and video made with THE STUDIO, an editor it drives by commands while you watch (Windows, downloaded after a yes), or with frameworks on your machine | [ATLAS-video](https://github.com/Z0CC0/ATLAS-video) |
 
 Each of those pages explains its part in full, says where others do it better, and lists what can be connected from outside.
 

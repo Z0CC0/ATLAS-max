@@ -97,7 +97,7 @@ request that named the command loaded it every time; the same request in plain w
 | `atlas-build-ai` | code that calls a model: prompts, tools, evals, retrieval, cost, MCP | 9 | model names and prices are looked up, never remembered |
 | `atlas-context` | what every session loads, when to compact, one answer at a chosen depth | 4 | measures, does not guess |
 | `atlas-secure` | whole-project security audit: dangerous code, vulnerable dependencies, secrets in the files and the git history | 4 | only your own code; every finding carries its proof; changes nothing |
-| `atlas-stack` | how code is written in this project's language and framework | 18 | `atlas-plan` sends for it before writing code; it can be named too. The project's own conventions come first |
+| `atlas-stack` | how code is written in this project's language and framework | 22 | `atlas-plan` sends for it before writing code; it can be named too. The project's own conventions come first |
 
 
 **Documents.** The spec before the build, the changelog after it, the text other agents read, the explanation one person needs:
@@ -197,7 +197,7 @@ Two more commands, for video made on this machine.
 
 | command | what it does | files behind it | worth knowing |
 |---|---|---|---|
-| `atlas-media` | video with the best framework installed (HyperFrames first), slides, recorded demos, with local tools | 12 | quality before tokens for a video; a legibility gate on every text; no generation service, no upload |
+| `atlas-media` | video with THE STUDIO, the editor that comes with the build on Windows, or the best framework installed; slides, recorded demos, with local tools | 17 | quality before tokens for a video; a legibility gate on every text; no generation service, no upload |
 | `atlas-clip` | records the screen and renders a video whose camera follows the cursor, with a zoom where you stop or type | 0 | Windows only, needs `ffmpeg`. Keys are counted, never identified |
 
 Generating video from a prompt is not here: see `connections.md` in this build's README for what can be connected and at what cost.
